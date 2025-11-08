@@ -206,5 +206,6 @@ Found a syllable that sounds weird? Have ideas for new races? PRs welcome.
 
 ## Credits
 
-Built by [Your Name] as part of the 30-for-30 challenge.
+Built by Jason Dookeran as part of the 30-for-30 challenge.
 Syllable databases generated with AI assistance and manually curated.
+Blog Post on my Medium
