@@ -1,0 +1,117 @@
+{
+	"human": {
+		"first_start": [
+			"gar", "ald", "bran", "ced", "eth", "wil", "tho", "mar", "el", "cor",
+			"aed", "bal", "dor", "fin", "gal", "har", "ing", "jor", "ken", "lor",
+			"mir", "ned", "osw", "per", "quin", "ran", "sel", "tor", "uld", "val",
+			"wyn", "yor", "arn", "bea", "col", "den", "eir", "fre", "gis", "hal",
+			"ism", "kae", "leof", "mor", "oth", "ric", "sig", "tan", "ulf", "cas"
+		],
+		"first_end": [
+			"ric", "win", "dor", "ton", "lan", "ren", "bert", "mund", "hart", "den",
+			"ricc", "wyn", "rid", "gar", "mir", "rad", "wulf", "lin", "ran", "vald",
+			"son", "mar", "fin", "las", "dir", "vor", "lok", "ris", "lom", "rol",
+			"rik", "rim", "tal", "fer", "gis", "hem", "bar", "gir", "han", "wir",
+			"lof", "bur", "nor", "tru", "hal", "tan", "eld", "wyns", "gund", "bran"
+		],
+		"surname_prefix": [
+			"Iron", "Stone", "Wood", "Raven", "Silver", "Green", "Black", "Red", "White", "Gold",
+			"Ashen", "Frost", "Storm", "Flint", "Steel", "Crow", "Wolf", "Oak", "Thorn", "Hawk",
+			"Bear", "Fox", "Deer", "Swan", "Falcon", "Bright", "Dusk", "Shade", "Grim", "Swift",
+			"Rain", "Snow", "Wind", "Bronze", "Ember", "River", "Clear", "Leaf", "Burn", "Mist",
+			"Wild", "Glen", "Pine", "Briar", "Drake", "Vale", "Hearth", "Lark", "Sun", "Shadow",
+			"Cinder"
+		],
+		"surname_suffix": [
+			"forge", "bridge", "field", "guard", "helm", "wood", "stone", "brook", "dale", "ton",
+			"hall", "worth", "well", "glen", "moor", "crest", "shore", "hill", "ford", "holt",
+			"mere", "vale", "ridge", "burn", "fall", "gate", "croft", "stead", "mont", "peak",
+			"cliff", "bank", "bloom", "thorn", "grove", "wick", "port", "den", "glade", "path",
+			"keep", "haven", "loch", "marsh", "fen", "bay", "watch", "run", "firth", "barrow"
+		]
+	},
+	"elf": {
+		"first_start": [
+			"thala", "ela", "fae", "sil", "gala", "ara", "lin", "cel", "lira", "sora",
+			"alra", "sera", "vela", "nora", "luth", "aril", "thal", "eira", "lina", "riel",
+			"vana", "mira", "sel", "lara", "aera", "elun", "sari", "thora", "ilra", "lyra",
+			"rena", "aele", "oril", "vira", "valen", "eril", "aeri", "nira", "alun", "sela",
+			"lyen", "thae", "elra", "fira", "leth", "aura", "niar", "sael", "loren", "enar"
+		],
+		"first_end": [
+			"nil", "ril", "dir", "las", "ion", "wen", "riel", "thil", "dor", "rian",
+			"lith", "mir", "nor", "thel", "anis", "rael", "veth", "rion", "lor", "rien",
+			"dil", "thas", "niel", "driel", "siel", "lis", "vain", "drel", "thiel", "ael",
+			"rin", "viel", "diel", "thir", "lael", "lien", "vian", "miel", "rain", "loth",
+			"lian", "wren", "sael", "nir", "hiel", "hael", "raen", "vael", "riath", "thien",
+			"tiel"
+		],
+		"surname_prefix": [
+			"Moon", "Star", "Silver", "Dawn", "Shadow", "Leaf", "Wind", "River", "Sky", "Sun",
+			"Mist", "Glimmer", "Bloom", "Twilight", "Crystal", "Lunar", "Solar", "Petal", "Cloud", "Echo",
+			"Dream", "Rain", "Light", "Flame", "Whisper", "Frost", "Snow", "Aurora", "Willow", "Ember",
+			"Spirit", "Shimmer", "Velar", "Glow", "Breeze", "Celest", "Wave", "Drift", "Grove", "Spark",
+			"Vine", "Pearl", "Seren", "Trill", "Thorn", "Wisp", "Halo", "Feather", "Iris", "Meadow"
+		],
+		"surname_suffix": [
+			"whisper", "weaver", "song", "wind", "light", "blade", "walker", "dancer", "seer", "gleam",
+			"dreamer", "caller", "warden", "keeper", "binder", "herald", "runner", "watcher", "flame", "bloom",
+			"shade", "stream", "wander", "spark", "tide", "veil", "shaper", "glider", "flourish", "flower",
+			"hunter", "rider", "thorn", "heart", "wing", "bender", "gazer", "finder", "seeker", "wielder",
+			"friend", "whisperer", "speaker", "mender", "strider", "spinner", "weaveress", "dream", "lightborn", "flameborn"
+		]
+	},
+	"dwarf": {
+		"first_start": [
+			"thor", "bal", "dal", "gim", "dwar", "bor", "kil", "dur", "brom", "grun",
+			"thra", "drin", "brak", "grim", "torg", "karn", "dorn", "brun", "trak", "gard",
+			"krin", "bur", "hald", "thorv", "grimr", "thrum", "brod", "kuld", "drog", "brin",
+			"thorh", "grod", "ragn", "tharn", "brum", "darf", "garn", "thol", "dral", "brag",
+			"krof", "thur", "bard", "dornn", "grud", "drak", "thrag", "bald", "gril", "tord"
+		],
+		"first_end": [
+			"in", "im", "ur", "ar", "or", "ek", "ok", "ri", "din", "dor",
+			"rum", "gar", "mir", "rak", "rin", "run", "rik", "orn", "dur", "vor",
+			"bor", "grin", "rim", "dir", "rod", "drin", "lom", "var", "kor", "rig",
+			"rad", "dum", "tor", "fin", "dok", "rol", "rom", "kur", "vin", "bur",
+			"dar", "tan", "mor", "grom", "thur", "brin", "nok", "zor", "grim", "hun"
+		],
+		"surname_prefix": [
+			"Iron", "Stone", "Axe", "Gold", "Steel", "Forge", "Hammer", "Anvil", "Bronze", "Copper",
+			"Silver", "Brass", "Tin", "Ore", "Coal", "Rock", "Mithr", "Lead", "Gran", "Flint",
+			"Nickel", "Obsid", "Marb", "Onyx", "Cobalt", "Ironf", "Quartz", "Slate", "Basalt", "Chain",
+			"Ironw", "Helm", "Mail", "Blade", "Forgew", "Talon", "Chisel", "Pick", "Grit", "Miner",
+			"Beryl", "Runed", "Stonew", "Ironm", "Steelw", "Brine", "Barrel", "Granite", "Furn", "Oreth"
+		],
+		"surname_suffix": [
+			"foot", "hammer", "beard", "fist", "helm", "bearer", "breaker", "guard", "smith", "shield",
+			"brow", "axehand", "forge", "grip", "mender", "ward", "carver", "binder", "shaper", "cleaver",
+			"thane", "maul", "strider", "keeper", "maker", "delver", "watch", "arm", "brand", "cutter",
+			"blaze", "sunder", "anvil", "cleft", "braid", "shard", "hammerer", "bulwark", "caster", "mason",
+			"burrow", "craft", "render", "miner", "boulder", "runner", "shoulder", "holder", "founder", "ironhand"
+		]
+	},
+	"orc": {
+		"first_start": [
+			"gri", "ug", "az", "dur", "kro", "shar", "gul", "mog", "ork", "grish",
+			"krag", "zug", "gra", "brok", "drak", "gash", "thrug", "murz", "rak", "gor",
+			"urk", "krul", "zag", "gruk", "thok", "bruz", "dro", "skar", "vrog", "grum",
+			"morg", "zhar", "krin", "drox", "brak", "ghul", "krog", "snar", "vrak", "gron",
+			"drok", "thrash", "karn", "gral", "shug", "ugor", "trak", "gruz", "blok", "mash"
+		],
+		"first_end": [
+			"shnak", "luk", "og", "ash", "ub", "atz", "uk", "ak", "ush", "gash",
+			"rog", "mok", "ruk", "tuk", "nash", "dok", "rak", "gruk", "mokh", "zuk",
+			"thak", "zug", "drak", "nok", "barz", "burk", "thog", "rash", "vuk", "muk",
+			"zash", "snok", "brak", "grok", "thruk", "kaz", "lukn", "garz", "hush", "vash",
+			"zrak", "trog", "ghak", "grash", "brog", "nuk", "zrog", "druk", "grub", "mokz"
+		],
+		"titles": [
+			"the Scarred", "Bonecrusher", "the Fierce", "Skullsplitter", "the Bloody", "Fangbreaker", "the Savage", "Blooddrinker", "the Warlord", "Ironmaw",
+			"the Brutal", "Skulltaker", "the Merciless", "Bloodfury", "the Unbroken", "Rageborn", "the Crusher", "Doomhowler", "the Relentless", "Bonegnasher",
+			"the Destroyer", "Ironhide", "the Berserk", "Bloodfang", "the Ravager", "Skullbrand", "the Defiler", "Gorebringer", "the Mad", "Ironblood",
+			"the Cleaver", "Rageheart", "the Cruel", "Fleshrender", "the Unyielding", "Skullbiter", "the Tormented", "Deathhand", "the Butcher", "Bloodreaver",
+			"the Vicious", "Stormscar", "the Impaler", "Fangmaw", "the Ruthless", "Doomspear", "the Wicked", "Gorefang", "the Savageborn", "Ironbreaker"
+		]
+	}
+}
